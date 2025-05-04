@@ -1,0 +1,12 @@
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe.config
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.pdb
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.AssemblyReference.cache
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.Properties.Resources.resources
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.exe
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.pdb
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.formLogin.resources
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.FormOgrenci.resources
+C:\Users\TOPRAK\source\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.FormOgretmen.resources
