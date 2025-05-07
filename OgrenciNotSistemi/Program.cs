@@ -16,7 +16,7 @@ namespace OgrenciNotSistemi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormOgretmen());
+            Application.Run(new formLogin());
         }
     }
 }

@@ -90,6 +90,7 @@ namespace OgrenciNotSistemi
                                 MessageBox.Show("Öğrenci Girişi Başarılı! Hoşgeldin " + kullaniciAdi);
                                 this.Hide();
                                 FormOgrenci ogrForm = new FormOgrenci();
+                                ogrForm.ogrenciNo = Convert.ToInt32(kullaniciAdi);
                                 ogrForm.ShowDialog();
                                 this.Close();
                             }
@@ -112,8 +113,13 @@ namespace OgrenciNotSistemi
                                     MessageBox.Show("Öğretmen Girişi Başarılı! Hoşgeldin " + kullaniciAdi);
                                     this.Hide();
                                     FormOgretmen ogrtmn = new FormOgretmen();
+                                    ogrtmn.ogretmenKullaniciAdi = kullaniciAdi;
                                     ogrtmn.ShowDialog();
                                     
+
+
+
+
                                     this.Close();
                                 }
                             }

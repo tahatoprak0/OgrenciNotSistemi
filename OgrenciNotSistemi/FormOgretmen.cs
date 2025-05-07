@@ -17,6 +17,7 @@ namespace OgrenciNotSistemi
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
         private int ogrenciID;
+        public string ogretmenKullaniciAdi;
         [DllImportAttribute("user32.dll")]
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
         [DllImportAttribute("user32.dll")]
@@ -127,7 +128,7 @@ namespace OgrenciNotSistemi
 
         private void FormOgretmen_Load(object sender, EventArgs e)
         {
-
+            label_KullaniciAdi.Text = ogretmenKullaniciAdi;
         }
 
         private void button_GirisYap_Click(object sender, EventArgs e)
